@@ -1,0 +1,39 @@
+.navbar {
+    background-color: var(--tertiary-solid);
+}
+
+.navbar{
+    font-size: var(--font-xsmall);
+
+}
+
+.navbar {
+    font-size: var(--font-xsmall);
+}
+
+
+
+
+
+
+
+@media (min-width: 350px) and (max-width: 790px) {}
+
+
+
+
+@media (min-width:791px) and (max-width:800px) {}
+
+
+
+
+
+
+@media (min-width: 801px) and (max-width: 1300px) {}
+
+
+
+
+
+
+@media (min-width: 1301px) and (max-width: 1800px) {}

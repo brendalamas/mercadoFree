@@ -1,0 +1,41 @@
+.col-md-7 {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+}
+.row>* {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-top: var(--bs-gutter-y);
+}
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.main-description .product-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+#ir_carro {
+    background-color: #0093c4;
+    font-size: 1.5rem;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 0;
+}
+p {
+    font-size: 13px;
+    font-family: Roboto, 'Helvetica Neue', sans-serif;
+}

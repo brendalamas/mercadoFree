@@ -1,0 +1,18 @@
+.input_edit {
+    font-size: 18px;
+    width: 40vw;
+    display: block;
+}
+
+.card-body {
+    align-self: center;
+}
+
+form {
+    display: inline-block;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
